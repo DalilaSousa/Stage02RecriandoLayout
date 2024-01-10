@@ -1,0 +1,75 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+
+  text-align: center;
+  margin: 0;
+}
+
+#conteudo {
+  width: 626px;
+  margin: 0 auto 72px;
+  margin-top: 3%;
+}
+
+#conteudoInterno {
+  width: 540px;
+  margin: 0 auto 72px;
+  margin-top: 3%;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+span {
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+rosa{
+  color: #EE24FF;
+}
+
+h2{
+  color: #3F3D56;  
+}
+
+p, #footer {
+  color: #7D7987;
+
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#footer a + a{
+  margin-left: 28px;
+}
+
+destino{
+  font-size: 14px;
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+oferta{
+  font-size:  14px;
+  color: #3F3D56;
+  font-weight: bold;
+  margin-left: 60px;
+}
+
+contato{
+  font-size:  14px;
+  color: #3F3D56;
+  font-weight: bold;
+  margin-left: 60px;
+}
+
+.line {
+  width: 450px;
+  height: 0px;
+
+  margin: 0 auto 8px;
+
+  border: 1px solid #ECEFF2;
+}
